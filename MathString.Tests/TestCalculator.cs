@@ -1,4 +1,4 @@
-﻿using MathLibrary;
+﻿using MathString.Library;
 using NUnit.Framework;
 
 namespace MathString.Tests

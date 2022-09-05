@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{0E4FE6BD-A71C-476E-AE31-554414671FED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathString.App", "ConsoleApp\MathString.App.csproj", "{0E4FE6BD-A71C-476E-AE31-554414671FED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathLibrary", "MathLibrary\MathLibrary.csproj", "{9FFD4B8A-213B-4A3C-913E-DDBE579D0C2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathString.Library", "MathLibrary\MathString.Library.csproj", "{9FFD4B8A-213B-4A3C-913E-DDBE579D0C2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathString.Tests", "MathString.Tests\MathString.Tests.csproj", "{57970166-9CAD-4EEC-94DB-24106AAA274D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathString.Tests", "MathString.Tests\MathString.Tests.csproj", "{57970166-9CAD-4EEC-94DB-24106AAA274D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

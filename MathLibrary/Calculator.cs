@@ -1,4 +1,4 @@
-﻿namespace MathLibrary
+﻿namespace MathString.Library
 {
     public static class Calculator
     {

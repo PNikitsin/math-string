@@ -1,6 +1,6 @@
-﻿using MathLibrary;
+﻿using MathString.Library;
 
-namespace ConsoleApp
+namespace MathString.App
 {
     internal class Program
     {
