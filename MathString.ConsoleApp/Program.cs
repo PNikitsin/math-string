@@ -1,6 +1,6 @@
 ﻿using MathString.Library;
 
-namespace MathString.App
+namespace MathString.ConsooleApp
 {
     internal class Program
     {
